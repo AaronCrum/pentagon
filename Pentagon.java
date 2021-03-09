@@ -1,7 +1,8 @@
-/*
-(Sort three integers) Write a program that prompts the user to enter three integers
-and display the integers in non-decreasing order.
+/* 
+ *  Description: A program that prompts the user to enter three integers
+and displays the integers in non-decreasing order
 */
+
 import java.util.Scanner;
 
 public class Exercise_03_08 {
